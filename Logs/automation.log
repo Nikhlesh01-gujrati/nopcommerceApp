@@ -2168,3 +2168,63 @@
 2023-05-28 19:02:14,891 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 2023-05-28 19:02:14,891 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
 2023-05-28 19:02:14,891 - root - INFO - ***************  TC_SearchCustomerByName_005 Finished  *********** 
+2023-05-29 10:31:37,279 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:37,279 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:37,279 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:37,279 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:37,279 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:42,837 - root - INFO - *********** verifying Login Test **************
+2023-05-29 10:31:42,837 - root - INFO - *********** verifying Login Test **************
+2023-05-29 10:31:42,837 - root - INFO - *********** verifying Login Test **************
+2023-05-29 10:31:42,837 - root - INFO - *********** verifying Login Test **************
+2023-05-29 10:31:42,837 - root - INFO - *********** verifying Login Test **************
+2023-05-29 10:31:49,581 - root - INFO - *********** Login Test is Passed **************
+2023-05-29 10:31:49,581 - root - INFO - *********** Login Test is Passed **************
+2023-05-29 10:31:49,581 - root - INFO - *********** Login Test is Passed **************
+2023-05-29 10:31:49,581 - root - INFO - *********** Login Test is Passed **************
+2023-05-29 10:31:49,581 - root - INFO - *********** Login Test is Passed **************
+2023-05-29 10:31:49,628 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:49,628 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:49,628 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:49,628 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:49,628 - selenium.webdriver.common.selenium_manager - INFO - Applicable driver not found; attempting to install with Selenium Manager (Beta)
+2023-05-29 10:31:52,038 - root - INFO - ************* Test_003_AddCustomer **********
+2023-05-29 10:31:52,038 - root - INFO - ************* Test_003_AddCustomer **********
+2023-05-29 10:31:52,038 - root - INFO - ************* Test_003_AddCustomer **********
+2023-05-29 10:31:52,038 - root - INFO - ************* Test_003_AddCustomer **********
+2023-05-29 10:31:52,038 - root - INFO - ************* Test_003_AddCustomer **********
+2023-05-29 10:32:16,472 - root - INFO - ************* Login succesful **********
+2023-05-29 10:32:16,472 - root - INFO - ************* Login succesful **********
+2023-05-29 10:32:16,472 - root - INFO - ************* Login succesful **********
+2023-05-29 10:32:16,472 - root - INFO - ************* Login succesful **********
+2023-05-29 10:32:16,472 - root - INFO - ************* Login succesful **********
+2023-05-29 10:32:16,472 - root - INFO - ******* Starting Add Customer Test **********
+2023-05-29 10:32:16,472 - root - INFO - ******* Starting Add Customer Test **********
+2023-05-29 10:32:16,472 - root - INFO - ******* Starting Add Customer Test **********
+2023-05-29 10:32:16,472 - root - INFO - ******* Starting Add Customer Test **********
+2023-05-29 10:32:16,472 - root - INFO - ******* Starting Add Customer Test **********
+2023-05-29 10:32:28,189 - root - INFO - ************* Providing customer info **********
+2023-05-29 10:32:28,189 - root - INFO - ************* Providing customer info **********
+2023-05-29 10:32:28,189 - root - INFO - ************* Providing customer info **********
+2023-05-29 10:32:28,189 - root - INFO - ************* Providing customer info **********
+2023-05-29 10:32:28,189 - root - INFO - ************* Providing customer info **********
+2023-05-29 10:32:41,536 - root - INFO - ************* Saving customer info **********
+2023-05-29 10:32:41,536 - root - INFO - ************* Saving customer info **********
+2023-05-29 10:32:41,536 - root - INFO - ************* Saving customer info **********
+2023-05-29 10:32:41,536 - root - INFO - ************* Saving customer info **********
+2023-05-29 10:32:41,536 - root - INFO - ************* Saving customer info **********
+2023-05-29 10:32:41,537 - root - INFO - ********* Add customer validation started *****************
+2023-05-29 10:32:41,537 - root - INFO - ********* Add customer validation started *****************
+2023-05-29 10:32:41,537 - root - INFO - ********* Add customer validation started *****************
+2023-05-29 10:32:41,537 - root - INFO - ********* Add customer validation started *****************
+2023-05-29 10:32:41,537 - root - INFO - ********* Add customer validation started *****************
+2023-05-29 10:32:41,613 - root - INFO - ********* Add customer Test Passed *********
+2023-05-29 10:32:41,613 - root - INFO - ********* Add customer Test Passed *********
+2023-05-29 10:32:41,613 - root - INFO - ********* Add customer Test Passed *********
+2023-05-29 10:32:41,613 - root - INFO - ********* Add customer Test Passed *********
+2023-05-29 10:32:41,613 - root - INFO - ********* Add customer Test Passed *********
+2023-05-29 10:32:42,281 - root - INFO - ******* Ending Add customer test **********
+2023-05-29 10:32:42,281 - root - INFO - ******* Ending Add customer test **********
+2023-05-29 10:32:42,281 - root - INFO - ******* Ending Add customer test **********
+2023-05-29 10:32:42,281 - root - INFO - ******* Ending Add customer test **********
+2023-05-29 10:32:42,281 - root - INFO - ******* Ending Add customer test **********
